@@ -1,0 +1,23 @@
+.question {
+    height: 60px;
+    margin: 0 auto 60px;
+    background-color: red;
+    color: white;
+}
+
+.container-flex {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    width: 15%;
+    height: 40px;
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+}
+
+button:hover {
+    opacity: 0.7;
+}
